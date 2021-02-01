@@ -1,9 +1,3 @@
-//
-//  MyLocationsViewController.swift
-//  sampleRD
-//
-//  Created by Karthik on 2/1/21.
-//
 
 import UIKit
 
